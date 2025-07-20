@@ -10,6 +10,44 @@ To build an interactive and insightful Power BI dashboard that answers key busin
 - What are the monthly sales trends?
 - Which areas are underperforming in terms of profit margins?
 
+## 📊 Power BI Dashboards
+
+A visual showcase of the ElectroHub Sales Analysis dashboard, built using Power BI Desktop. These views highlight various business insights, KPI comparisons, and performance breakdowns.
+
+---
+
+### 🌍 Overview
+Interactive overview showing:
+- Sales by city
+- Discounts by promotion
+- Profit vs Net Sales correlation
+- Sales trend over time
+
+![Overview](https://github.com/dhruvnirwan/ElectroHub-Analysis/blob/main/assests/Overview.jpeg)
+
+---
+
+### 📌 KPI Comparison View: Sales, Profit, Quantity
+Side-by-side KPI analysis for total sales, total profit, and total quantity sold with dynamic date filters.
+
+![KPI Comparison View: Sales, Profit, Quantity](https://github.com/dhruvnirwan/ElectroHub-Analysis/blob/main/assests/KPI%20Comparison%20View%20Sales%2C%20Profit%2C%20Quantity.jpeg)
+
+---
+
+### 🧾 Customer-Level Sales Table with Slicers
+Detailed transaction-level sales data filtered by customer, product, date, and promotion.
+
+![Customer-Level Sales Table with Slicers](https://github.com/dhruvnirwan/ElectroHub-Analysis/blob/main/assests/Customer-Level%20Sales%20Table%20with%20Slicers.jpeg)
+
+---
+
+### 📈 Top & Bottom Product Performance Visuals
+Visual comparisons of top and bottom 5 products by **sales**, **profit**, and **units sold**.
+
+![Top & Bottom Product Performance Visuals](https://github.com/dhruvnirwan/ElectroHub-Analysis/blob/main/assests/Top%20%26%20Bottom%20Product%20Performance%20Visuals.jpeg)
+
+---
+
 ## 📊 Key Features
 
 - **Product & Category-Wise Sales**  
