@@ -73,3 +73,15 @@ Visual comparisons of top and bottom 5 products by **sales**, **profit**, and **
 - **DAX (Data Analysis Expressions)**
 - **Interactive Cards, Charts, Maps, and Tables**
 - **Dashboard Design & UX Storytelling**
+
+---
+
+## 🙋‍♂️ About Me
+
+**👨‍💼 Dhruv Nirwan**  
+Data Analyst | Power BI | SQL | Excel | Python | Snowflake | Cloud (AWS, Azure, GCP)  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-nirwan)  
+📧 dhruvnirwan836@gmail.com  
+📂 [GitHub: dhruvnirwan](https://github.com/dhruvnirwan)
+
